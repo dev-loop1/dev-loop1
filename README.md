@@ -142,20 +142,6 @@ I'm particularly interested in engineering problems involving **scalability, per
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-loop1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Vikas's GitHub Stats"/>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-loop1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in **interesting engineering problems, software development opportunities, AI systems, and building things that scale**.
