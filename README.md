@@ -101,19 +101,6 @@ I'm particularly interested in engineering problems involving **scalability, per
 
   <tr>
     <td width="50%">
-      <a href="https://github.com/dev-loop1/lumina-ecommerce-platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-loop1&repo=lumina-ecommerce-platform&theme=tokyonight&show_owner=false" alt="Lumina E-commerce Platform"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/dev-loop1/automated-metadata-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-loop1&repo=automated-metadata-generator&theme=tokyonight&show_owner=false" alt="Automated Metadata Generator"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
       <a href="https://github.com/dev-loop1/data-compression-and-decompression-portal">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-loop1&repo=data-compression-and-decompression-portal&theme=tokyonight&show_owner=false" alt="Data Compression Portal"/>
       </a>
